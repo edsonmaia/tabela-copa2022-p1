@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="images/favicon.png" />
+    <title>Tabela Copa do Mundo 2022</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <main class="tela-principal">
+
+        <h1>Tabela da Copa do Mundo</h1>
+        <h2>Catar 2022</h2>
+
+        <div class="form-control">
+            <label for="letraDoGrupo">Escolha o Grupo</label>
+            <select
+                name="letraDoGrupo" id="letraDoGrupo" class="letraDoGrupo"
+                onchange="verGrupos(this.value)" >
+                    <option value="0">A</option>
+                    <option value="1">B</option>
+                    <option value="2">C</option>
+                    <option value="3">D</option>
+                    <option value="4">E</option>
+                    <option value="5">F</option>
+                    <option value="6">G</option>
+                    <option value="7">H</option>
+            </select>
+        </div>
+
+        <section class="grupos">
+
+            <h3 class="tituloGrupo">Grupo</h3>
+            
+            <ol class="listaGrupo">
+            </ol>
+
+        </section>
+
+    </main>
+<script src="js/index.js"></script>
+</body>
+</html>

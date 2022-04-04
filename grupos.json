@@ -1,0 +1,58 @@
+[
+    {
+        "grupo": "A",
+        "selecao1": "Catar",
+        "selecao2": "Equador",
+        "selecao3": "Senegal",
+        "selecao4": "Holanda"
+    },
+    {
+        "grupo": "B",
+        "selecao1": "Inglaterra",
+        "selecao2": "Irã",
+        "selecao3": "Estados Unidos",
+        "selecao4": "País de Gales/Escócia/Ucrânia"
+    },
+    {
+        "grupo": "C",
+        "selecao1": "Arábia Saudita",
+        "selecao2": "Argentina",
+        "selecao3": "México",
+        "selecao4": "Polônia"
+    },
+    {
+        "grupo": "D",
+        "selecao1": "Dinamarca",
+        "selecao2": "Emirados Árabes ou Austrália ou Peru",
+        "selecao3": "França",
+        "selecao4": "Tunísia"
+    },
+    {
+        "grupo": "E",
+        "selecao1": "Alemanha",
+        "selecao2": "Costa Rica ou Nova Zelândia",
+        "selecao3": "Espanha",
+        "selecao4": "Japão"
+    },
+    {
+        "grupo": "F",
+        "selecao1": "Bélgica",
+        "selecao2": "Canadá",
+        "selecao3": "Croácia",
+        "selecao4": "Marrocos"
+    },
+    {
+        "grupo": "G",
+        "selecao1": "Brasil",
+        "selecao2": "Camarões",
+        "selecao3": "Sérvia",
+        "selecao4": "Suíça"
+    },
+    {
+        "grupo": "H",
+        "selecao1": "Coreia do Sul",
+        "selecao2": "Gana",
+        "selecao3": "Portugal",
+        "selecao4": "Uruguai"
+    }
+]

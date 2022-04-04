@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,200;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+    background-color: #efefef;
+}
+
+body {
+    width: 100%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin: 1rem;
+}
+
+.tela-principal {
+    padding: 2rem;
+}
+
+.letraDoGrupo {
+    padding: 0.5rem;
+}
+
+.form-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+ol {
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+
